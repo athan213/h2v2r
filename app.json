@@ -1,7 +1,7 @@
 {
     "name": "V2V",
     "description": "Deploy V2V on HK.",
-    "keywords": ["V2Ray"],
+    "keywords": ["V2V"],
     "env": {
         "ID": {
             "description": "UUID",
